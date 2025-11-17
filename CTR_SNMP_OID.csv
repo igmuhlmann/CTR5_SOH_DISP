@@ -1,0 +1,24 @@
+nmxCentaurTimingPLLState,.1.3.6.1.4.1.58765.1.1.1.0	
+nmxCentaurGnssSatelliteCount,.1.3.6.1.4.1.58765.1.1.2.0
+nmxCentaurGnssState,.1.3.6.1.4.1.58765.1.1.3.0	
+nmxCentaurTimeState,.1.3.6.1.4.1.58765.1.1.4.0	
+nmxCentaurDigitizerTemperature,	.1.3.6.1.4.1.58765.1.2.1.0
+nmxCentaurSystemCurrent,.1.3.6.1.4.1.58765.1.2.2.0
+nmxCentaurInputVoltage,.1.3.6.1.4.1.58765.1.2.3.0
+nmxCentaurConfigCommitState,.1.3.6.1.4.1.58765.1.2.4.0
+nmxCentaurStoreRecordingStatus,.1.3.6.1.4.1.58765.1.2.5.0
+nmxCentaurArchiveRecordingState,.1.3.6.1.4.1.58765.1.2.6.0
+nmxCentaurFirmwareState,.1.3.6.1.4.1.58765.1.2.7.0
+nmxCentaurInstrumentState,.1.3.6.1.4.1.58765.1.2.8.0
+nmxCentaurRemovableFreeSpace,.1.3.6.1.4.1.58765.1.2.9.0
+nmxCentaurFirmwareVersion,.1.3.6.1.4.1.58765.1.2.10.0
+nmxCentaurSensorStateA,.1.3.6.1.4.1.58765.1.3.1.0
+nmxCentaurSensorStateB,.1.3.6.1.4.1.58765.1.3.2.0
+nmxCentaurSensorControlLinesA,.1.3.6.1.4.1.58765.1.3.3.0
+nmxCentaurSensorControlLinesB,.1.3.6.1.4.1.58765.1.3.4.0
+nmxCentaurSensorSohChannelVoltage1,.1.3.6.1.4.1.58765.1.3.5.1.2.1
+nmxCentaurSensorSohChannelVoltage2,.1.3.6.1.4.1.58765.1.3.5.1.2.2
+nmxCentaurSensorSohChannelVoltage3,.1.3.6.1.4.1.58765.1.3.5.1.2.3
+nmxCentaurSensorSohChannelVoltage4,.1.3.6.1.4.1.58765.1.3.5.1.2.4
+nmxCentaurSensorSohChannelVoltage5,.1.3.6.1.4.1.58765.1.3.5.1.2.5
+nmxCentaurSensorSohChannelVoltage6,.1.3.6.1.4.1.58765.1.3.5.1.2.6
