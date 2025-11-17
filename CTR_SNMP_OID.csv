@@ -1,7 +1,7 @@
-nmxCentaurTimingPLLState,.1.3.6.1.4.1.58765.1.1.1.0	
+nmxCentaurTimingPLLState,.1.3.6.1.4.1.58765.1.1.1.0
 nmxCentaurGnssSatelliteCount,.1.3.6.1.4.1.58765.1.1.2.0
-nmxCentaurGnssState,.1.3.6.1.4.1.58765.1.1.3.0	
-nmxCentaurTimeState,.1.3.6.1.4.1.58765.1.1.4.0	
+nmxCentaurGnssState,.1.3.6.1.4.1.58765.1.1.3.0
+nmxCentaurTimeState,.1.3.6.1.4.1.58765.1.1.4.0
 nmxCentaurDigitizerTemperature,	.1.3.6.1.4.1.58765.1.2.1.0
 nmxCentaurSystemCurrent,.1.3.6.1.4.1.58765.1.2.2.0
 nmxCentaurInputVoltage,.1.3.6.1.4.1.58765.1.2.3.0
