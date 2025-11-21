@@ -1,7 +1,8 @@
 # CTR SNMP Monitoring Tool  
 
-A Linux/Bash tool to periodically query SNMP OIDs from a Nanometrics Centaur, decode selected values (including firmware hex fields), track changes over time, and write timestamped output to a file.
-This script is the Linux equivalent of an existing PowerShell monitoring tool that is installed locally on the device. The output can be transfered via SCP to a local computer.
+A Linux/Bash tool to periodically generate an SOH query file for Nanometrics Centaur Dataloggers.
+It queries system state commands (uname -a, df, time, uptime) and queries SNMP OIDs from a Nanometrics Centaur, decode selected values (including firmware hex fields), track changes over time, and write timestamped output to a file (which then can be transfered via SCP to a local computer).
+While the Shell Script is for installing on the system, there is a power Shell version that runs locally on Windows PC in a subfolder (and only queries SNMMP). 
 ---
 
 ## Features
